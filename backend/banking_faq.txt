@@ -1,0 +1,100 @@
+=== UNION BANK OF INDIA — BANKING FAQ & KNOWLEDGE BASE ===
+
+=== BANKING JARGON & ABBREVIATIONS ===
+Q: What is KCC?
+A: KCC means Kisan Credit Card. It is a special credit card for farmers to get loans for farming needs. Interest rate 7% per year. Apply at any Union Bank branch with land documents and Aadhaar.
+
+Q: What is PMJDY?
+A: PMJDY is Pradhan Mantri Jan Dhan Yojana. It is a zero balance account scheme for all Indians. Includes RuPay debit card, accident insurance up to Rs 2 lakhs, and overdraft facility up to Rs 10,000.
+
+Q: What is NPA?
+A: NPA means Non Performing Asset. It means a loan where EMI has not been paid for 90 days or more. Customer should visit branch immediately to avoid legal action and credit score damage.
+
+Q: What is CIBIL score?
+A: CIBIL score is your credit score ranging from 300 to 900. Score above 750 is good for getting loans. Check free at unionbankofindia.co.in or call 1800-22-2244.
+
+Q: What is EMI?
+A: EMI means Equated Monthly Installment. It is the fixed monthly amount you pay for your loan. EMI includes both principal and interest amount.
+
+Q: What is KYC?
+A: KYC means Know Your Customer. It is mandatory document verification for all bank customers. Required documents: Aadhaar card, PAN card, passport photo. Must be updated every 2 years.
+
+Q: What is NEFT RTGS IMPS?
+A: NEFT is free online money transfer available 24/7. RTGS is for amounts above Rs 2 lakhs, processed immediately. IMPS is instant transfer available 24/7 with small charges.
+
+Q: What is OD or overdraft?
+A: OD means Overdraft. It allows you to withdraw more money than your account balance up to a set limit. Interest charged only on amount used. Available for salary and business accounts.
+
+Q: What is nominee?
+A: Nominee is the person who will receive your money in case of your death. Adding nominee is free and important. Visit branch or update through net banking in Account Settings.
+
+Q: What is cheque clearing?
+A: Cheque clearing takes 2 working days for local cheques and up to 5 days for outstation cheques. Bounced cheque charges Rs 500 per instance.
+
+Q: What is locker facility?
+A: Bank locker is a safe deposit box at the branch for keeping valuables like gold and documents. Annual rent from Rs 1500 to Rs 5000 depending on locker size. Apply at your home branch.
+
+Q: What is TDS on FD?
+A: TDS means Tax Deducted at Source. On FD interest above Rs 40,000 per year (Rs 50,000 for senior citizens), 10% TDS is deducted. Submit Form 15G or 15H to avoid TDS if income is below taxable limit.
+
+Q: What is sweep account?
+A: Sweep account automatically transfers excess savings balance to FD to earn higher interest. When you need money it comes back automatically. Ask branch to activate this facility.
+
+Q: What is NACH or auto debit?
+A: NACH means National Automated Clearing House. It is auto debit from your account for loan EMI, insurance premium, or utility bills. Can be set up or cancelled at branch.
+
+=== ACCOUNT SERVICES ===
+Q: How to check balance?
+A: Balance check options: SMS BAL to 09223008586, Missed call to 09223008586, Net banking at unionbankofindia.co.in, Union Bank mobile app (Union Bank: Mobile Banking), ATM (free), Passbook update at branch.
+
+Q: How to open a new account?
+A: To open account: Bring Aadhaar card (original + copy), PAN card, 2 passport size photos. Minimum deposit Rs 500. Zero balance account available under PMJDY. Visit nearest branch.
+
+Q: What are branch timings?
+A: Branch timing: Monday to Friday 10:00 AM to 4:00 PM. Saturday 10:00 AM to 2:00 PM. Closed Sunday and public holidays. Some branches open on 2nd and 4th Saturday.
+
+=== LOANS ===
+Q: What are loan interest rates?
+A: Union Bank loan rates: Home loan from 8.50% per year, Personal loan from 11.50% per year, Car loan from 8.70% per year, Gold loan from 8.75% per year, Education loan from 8.40% per year. Rates subject to change.
+
+Q: How to apply for home loan?
+A: Home loan process: Submit application at branch or online, Provide income proof (salary slip/ITR), Property documents, Aadhaar and PAN, CIBIL score check (minimum 650), Loan approval in 7-10 working days.
+
+=== FIXED DEPOSITS ===
+Q: What are FD rates?
+A: Union Bank FD rates: 7 days to 45 days: 3.0-4.5%, 46 days to 179 days: 4.5-5.5%, 180 days to 364 days: 5.5-6.0%, 1 year to 2 years: 6.5-7.0%, 2 years to 5 years: 6.5-6.8%, 5 years to 10 years: 6.5%. Senior citizens get additional 0.50% on all tenures.
+
+=== UPI & DIGITAL BANKING ===
+Q: How to set up UPI?
+A: UPI setup: Download Union Bank mobile app, Register with mobile number linked to account, Set 4 or 6 digit UPI PIN, Your UPI ID will be mobilenumber@unionbank, Daily transaction limit Rs 1 lakh.
+
+Q: What is net banking?
+A: Net banking available at unionbankofindia.co.in. Register at branch or online. Services: Fund transfer, Bill payment, FD opening, Statement download, Cheque book request.
+
+=== CUSTOMER CARE ===
+Q: Customer care number?
+A: Union Bank customer care: Toll free 1800-22-2244 (24x7 available). For complaints: cmscell@unionbankofindia.co.in. For fraud: Immediately call 1800-22-2244 and block card.
+
+=== FRAUD & SECURITY ===
+Q: What to do if fraud happens?
+A: FRAUD RESPONSE: 1. Immediately call 1800-22-2244 to block card/account. 2. Do NOT share OTP PIN or account details with anyone. 3. Visit branch immediately with ID proof. 4. File complaint at cybercrime.gov.in. 5. Bank investigates within 7-10 days. 6. Refund processed after investigation.
+
+=== MARATHI LANGUAGE SUPPORT ===
+खाते शिल्लक कसे तपासावे?
+SMS BAL पाठवा 09223008586 वर, किंवा missed call करा 09223008586 वर, किंवा net banking वापरा unionbankofindia.co.in वर.
+
+शाखेची वेळ काय आहे?
+शाखा सोमवार ते शुक्रवार सकाळी 10 ते दुपारी 4 वाजेपर्यंत उघडी असते. शनिवारी सकाळी 10 ते दुपारी 2 वाजेपर्यंत.
+
+व्याजदर काय आहेत?
+गृहकर्ज 8.50% पासून, वैयक्तिक कर्ज 11.50% पासून, सुवर्ण कर्ज 8.75% पासून उपलब्ध आहे.
+
+=== HINDI LANGUAGE SUPPORT ===
+खाता बैलेंस कैसे चेक करें?
+SMS BAL भेजें 09223008586 पर, या missed call करें 09223008586 पर, या net banking देखें unionbankofindia.co.in पर.
+
+ब्रांच टाइमिंग क्या है?
+शाखा सोमवार से शुक्रवार सुबह 10 बजे से शाम 4 बजे तक खुली रहती है। शनिवार को सुबह 10 बजे से दोपहर 2 बजे तक।
+
+ब्याज दर क्या हैं?
+होम लोन 8.50% से, पर्सनल लोन 11.50% से, गोल्ड लोन 8.75% से उपलब्ध है।
