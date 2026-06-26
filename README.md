@@ -1,6 +1,4 @@
-# 🏦 VoiceAssist AI v2.5
-### Multilingual AI Voice Assistant for Union Bank of India Branch Counters
-**Team FinovateX | iDEA 2.0 Hackathon | PS6**
+
 
 ---
 
